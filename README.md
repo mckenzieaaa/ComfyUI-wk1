@@ -35,3 +35,7 @@ photo realistic, cinematic realism,
 ugly, bad anatomy,
 blurry, low quality, watermark, subtitles
 
+
+(masterpiece, cinematic, best quality), a boy in a whimsical candy-colored town, catching falling rainbow candies, joyful, vibrant, magical atmosphere, sunny day, the candies melt into black ink, ink spreads like a vortex on the ground, colors being sucked into a black hole, the boy runs in monochrome, his colorful silhouette chases him, dynamic motion, surreal chase scene, he collides with a giant mirror, his reflection reaches out, left hand holds rainbow candies, right hand holds a black vortex, symmetrical composition, dramatic freeze frame, Studio Ghibli style, cyberpunk details, 8k, ultra detailed, dynamic lighting
+
+(worst quality, low quality, normal quality), blurry, out of focus, ugly, deformed, distorted anatomy, morbid, mutilated, bad hands, extra fingers, extra limbs, poorly drawn face, poorly drawn hands, missing fingers, text, watermark, signature, static, boring, dull colors, grayscale, (too dark), (too bright), frame, border, duplicate
